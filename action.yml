@@ -1,0 +1,11 @@
+
+name: test
+description: Testing writing files
+runs:
+    using: 'docker'
+    image: 'Dockerfile'
+
+author: Isaac Guerreiro
+branding:
+      icon: 'layers'
+      color: 'purple'
